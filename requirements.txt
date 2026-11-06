@@ -1,0 +1,6 @@
+Pillow
+numpy
+# optional
+# imageio-ffmpeg     # bundled ffmpeg binary if ffmpeg is not installed
+# faster-whisper     # word timestamps for lyric / voiceover sync
+# opencv-python      # ORB + affine tracking for zooms and pans
